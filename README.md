@@ -21,4 +21,4 @@ $ npm start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+For detailed explanation on how things work, checkout the [Cosmic JS article](https://cosmicjs.com/articles/how-to-build-a-restaurant-menu-app-in-nuxt-vuex-using-cosmic-js).  Cosmic JS makes a [great CMS for your Vue.js Website or App](https://cosmicjs.com/knowledge-base/vuejs-cms).

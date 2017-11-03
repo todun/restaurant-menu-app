@@ -1,4 +1,6 @@
 # Restaurant Menu App
+![Vue Restaurant Menu App](https://cosmic-s3.imgix.net/1db368c0-c016-11e7-86b1-11303dae2759-0d0f60c0-c014-11e7-9a3a-8fba475cce0d-restaurant-menu-app.png?w=1200)
+#### [View Demo](https://cosmicjs.com/apps/restaurant-menu-app)
 
 > Cosmic Restaurant Menu App
 
